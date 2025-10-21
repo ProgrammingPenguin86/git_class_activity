@@ -1,0 +1,1 @@
+Agile Velocity is the amount of work completed per iteration. Burndown charts help track progress by showing the remaining work over time
